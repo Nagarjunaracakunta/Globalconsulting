@@ -41,6 +41,10 @@ h3{
     color:#159238;
     
 }
+h4
+{
+  color: #fff;
+}
  /*=====================================
   PRELOADER STYLES 
     ===================================*/
@@ -73,7 +77,7 @@ h3{
 /*Menu border Color*/
 .navbar-default {
 border-color: #000;
-background-color:#242222;
+background-color:#08387F;
 }
 /*Logo Image */
 .navbar-brand-logo {
@@ -108,7 +112,7 @@ background-color: #fff;
  HOME SECTION
     ===================================*/
 #home{
-background: url(../img/head.jpg) no-repeat center center;
+background: url(../img/head1.png) no-repeat;
 padding: 0;
 -webkit-background-size: cover;
 background-size: cover;
@@ -144,6 +148,10 @@ background-size: cover;
     }
     #home h3 {
         color:#fff;
+    }
+    #home h1
+    {
+      color: #08387F
     }
     .div-trans {
 padding-top: 5px;
